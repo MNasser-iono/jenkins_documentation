@@ -16,7 +16,9 @@ how to install ceedling
  --> https://www.youtube.com/watch?v=taJAfnFFdOE
 
 imporatant : usually you will set jenkins schedule at 15 or 30 minute , don't set it at 1 minute , it wii be a load 
+-------------
 imporatant : You need to successfully run jenkins job al least once manually before webhook would work
+-------------
 
 comparison between Webhook Relay and ngrok
 -----------------------------------------------
@@ -48,4 +50,6 @@ cron syntax
 ---------------
 */5 * * * * <command to execute> Here, */5 in the minute field means the task will run at every 5-minute schedule.
 * * * * * <command to execute> Here,  means the task will run at every 1-minute schedule.
- 
+
+ Testing before Git push vs after
+--> https://www.reddit.com/r/devops/comments/4kvi79/testing_before_git_push_vs_after/
