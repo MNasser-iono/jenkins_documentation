@@ -55,4 +55,5 @@ cron syntax
 --> https://www.reddit.com/r/devops/comments/4kvi79/testing_before_git_push_vs_after/
 
 Jenkins prevent merge to main branch if tests fail
--->https://stackoverflow.com/questions/70989970/how-to-block-the-ability-to-merge-the-feature-branch-into-the-main-branch-when-a
+--> https://stackoverflow.com/questions/70989970/how-to-block-the-ability-to-merge-the-feature-branch-into-the-main-branch-when-a
+--> https://www.reddit.com/r/devops/comments/ci1dam/revert_commit_when_jenkins_pipeline_fails/
